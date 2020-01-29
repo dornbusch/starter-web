@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sven Dornbusch -- sdornbusch81@gmail.com -- @SvenDornbusch
 
 # THANKS
 
